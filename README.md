@@ -3,7 +3,7 @@
 `githbu.com/lestrrat-go/choose` is a simple tool that allows users to choose random
 elements out of a container. It uses the new type parameters introduced in go 1.18
 
-# Slices
+# Slice
 
 Initialize a choose.SliceChooser:
 
